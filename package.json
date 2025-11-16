@@ -5,7 +5,7 @@
   "homepage": "http://jeffdelara.github.io/banking-app",
 
   "engines": {
-    "node": "18.x"
+    "node": "22.x"
   },
 
   "dependencies": {
